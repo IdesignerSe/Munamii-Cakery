@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #fff7f9;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background: #ffe3ec;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.hero, .content {
+  padding: 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 20px;
+}
+
+.item img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #ffe3ec;
+  margin-top: 40px;
+}
