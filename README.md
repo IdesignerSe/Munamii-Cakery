@@ -90,7 +90,7 @@ All bakery names, images, and branding are used with permission (as stated in th
 ## 📁 Folder Structure
 
 ````markdown
-```text
+
 munamii-cakery/
 │── index.html
 │── about.html
