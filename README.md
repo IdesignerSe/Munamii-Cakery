@@ -85,7 +85,7 @@ These were optional in the assignment and can be added later:
 ## 📄 License
 
 This project is for **educational purposes only**.  
-All bakery names, images, and branding are used with permission (as stated in the assignment PDF).
+All bakery names, images, and branding are used with permission (as stated in the assignment PDF). 🗂️
 
 ## 📁 Folder Structure
 
@@ -99,10 +99,8 @@ munamii-cakery/
 │── styles.css
 │── /images/
 │     ├── cupcake1.jpg
+│     ├── cupcake2.jpg
 │     ├── ...
 │     ├── wedding1.jpg
 │     ├── wedding2.jpg
 │     └── ...
-
-```
-
