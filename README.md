@@ -42,6 +42,7 @@ The site is designed to work on both **mobile** and **desktop** without requirin
 ---
 
 ## 📁 Folder Structure
+
 ````markdown
 ```text
 munamii-cakery/
@@ -54,8 +55,11 @@ munamii-cakery/
 │     ├── cupcake1.jpg
 │     ├── ...
 │     ├── wedding1.jpg
+│     ├── wedding2.jpg
 │     └── ...
+
 ```
+
 ---
 
 ## 🎨 Technologies Used
