@@ -41,27 +41,6 @@ The site is designed to work on both **mobile** and **desktop** without requirin
 
 ---
 
-## 📁 Folder Structure
-
-````markdown
-```text
-munamii-cakery/
-│── index.html
-│── about.html
-│── products.html
-│── contact.html
-│── styles.css
-│── /images/
-│     ├── cupcake1.jpg
-│     ├── ...
-│     ├── wedding1.jpg
-│     ├── wedding2.jpg
-│     └── ...
-
-```
-
----
-
 ## 🎨 Technologies Used
 
 - **HTML5**
@@ -107,3 +86,23 @@ These were optional in the assignment and can be added later:
 
 This project is for **educational purposes only**.  
 All bakery names, images, and branding are used with permission (as stated in the assignment PDF).
+
+## 📁 Folder Structure
+
+````markdown
+```text
+munamii-cakery/
+│── index.html
+│── about.html
+│── products.html
+│── contact.html
+│── styles.css
+│── /images/
+│     ├── cupcake1.jpg
+│     ├── ...
+│     ├── wedding1.jpg
+│     ├── wedding2.jpg
+│     └── ...
+
+```
+
