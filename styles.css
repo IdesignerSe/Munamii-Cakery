@@ -63,6 +63,78 @@ nav a {
   margin-bottom: 15px;
 }
 
+.form-title {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+/* Contact + Subscribe Forms */
+.contact-form,
+.subscribe-form {
+  max-width: 400px;
+  margin: 20px 0;
+  padding: 30px;
+  background: #f9f4f7;
+  /* soft pastel pink */
+  border-radius: 8px;
+  border: 1px solid #e5d6df;
+}
+
+.contact-form label,
+.subscribe-form label {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: 600;
+}
+
+.contact-form input,
+.subscribe-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-family: inherit;
+}
+
+.contact-form button,
+.subscribe-form button {
+  background-color: #d48fb0;
+  /* bakery pastel pink */
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.contact-form button:hover,
+.subscribe-form button:hover {
+  background-color: #c2769c;
+}
+
+.form-wrapper {
+  margin: 25px auto;   /* centers the form horizontally */
+  width: 100%;
+  max-width: 450px;    /* gives more breathing room */
+}
+
+.content h2 {
+  text-align: center;
+}
+
+.contact-form,
+.subscribe-form {
+  max-width: 400px;
+  padding: 25px;
+  /* space INSIDE the box */
+  background: #f9f4f7;
+  border-radius: 8px;
+  border: 1px solid #e5d6df;
+}
+
 
 footer {
   text-align: center;
