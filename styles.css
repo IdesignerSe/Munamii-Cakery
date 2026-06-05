@@ -49,6 +49,16 @@ nav a {
   margin: 0 auto;
 }
 
+.content p strong {
+  color: #000;
+  font-weight: 600;
+}
+
+.content p {
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
 
 footer {
   text-align: center;
