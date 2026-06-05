@@ -18,7 +18,8 @@ nav a {
   font-weight: bold;
 }
 
-.hero, .content {
+.hero,
+.content {
   padding: 20px;
   max-width: 900px;
   margin: auto;
@@ -34,6 +35,20 @@ nav a {
   width: 100%;
   border-radius: 10px;
 }
+
+.logo-container {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.logo {
+  width: 180px;
+  /* adjust size if needed */
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
 
 footer {
   text-align: center;
