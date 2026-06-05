@@ -68,6 +68,13 @@ nav a {
   margin-bottom: 15px;
 }
 
+.form-wrapper {
+  margin: 25px auto;
+  width: 100%;
+  max-width: 450px;
+}
+
+
 /* Contact + Subscribe Forms */
 .contact-form,
 .subscribe-form {
