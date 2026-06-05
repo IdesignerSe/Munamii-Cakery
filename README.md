@@ -100,7 +100,7 @@ munamii-cakery/
 │── /images/
 │     ├── cupcake1.jpg
 │     ├── cupcake2.jpg
-│     ├── umami_logo.png
+│     ├── umamii_logo.png
 │     ├── wedding1.jpg
 │     ├── wedding2.jpg
 │     └── ...
