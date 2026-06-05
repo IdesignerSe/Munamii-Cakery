@@ -29,6 +29,53 @@ nav a {
   margin: auto;
 }
 
+/* HOME HERO SECTION */
+.home-hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  padding: 40px 20px;
+  flex-wrap: wrap;
+}
+
+.hero-text {
+  max-width: 450px;
+  text-align: left;
+}
+
+.hero-text h1 {
+  font-size: 2.5rem;
+  line-height: 1.2;
+  margin-bottom: 15px;
+}
+
+.hero-text .highlight {
+  color: #d48fb0;
+  /* pastel bakery pink */
+  font-weight: 600;
+}
+
+.hero-text p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.hero-image img {
+  width: 320px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.hero-text {
+  max-width: 450px;
+  text-align: center;
+  /* ← centers the title + paragraph */
+  margin: 0 auto;
+  /* ← ensures perfect centering */
+}
+
+
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -123,9 +170,11 @@ nav a {
 }
 
 .form-wrapper {
-  margin: 25px auto;   /* centers the form horizontally */
+  margin: 25px auto;
+  /* centers the form horizontally */
   width: 100%;
-  max-width: 450px;    /* gives more breathing room */
+  max-width: 450px;
+  /* gives more breathing room */
 }
 
 .content h2 {
